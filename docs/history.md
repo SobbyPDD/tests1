@@ -27,3 +27,9 @@ TASK_2 add new file and modified rectange
 
 ### Изменено:
 - rectangle.py
+
+## 5. 793ad0b Wed Oct 15 19:41:58 2025
+TASK_4 Added Tests
+### Добавлено:
+- hand_test.py
+- test_ractangle.py
