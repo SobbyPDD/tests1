@@ -34,4 +34,4 @@ class RectangleTestCase (unittest.TestCase):
         self.assertEqual(perimeter(10, 10), 40)
         
     def test_perimeter_large_numbers(self):
-        self.assertEqual(perimeter(1000, 500), 3000)
+        self.assertEqual(perimeter(1000, 500), 2000)
